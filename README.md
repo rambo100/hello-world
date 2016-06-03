@@ -1,3 +1,3 @@
 # hello-world
-My first repository
-This is my first GitHub project.
+My first repository.
+This is updated information regarding this project.
